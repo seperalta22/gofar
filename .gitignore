@@ -1,0 +1,22 @@
+
+# Ignore the .idea folder (GoLand configuration)
+.idea/
+
+# Ignore Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore module dependencies
+vendor/
+
+# Ignore cache files
+*.log
+*.cache
+*.out
